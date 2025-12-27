@@ -33,13 +33,31 @@ Passify is a modern password manager that prioritizes your privacy by keeping al
 ## ✨ Features
 
 ### 🔑 Password Generator
+
+Generate strong, secure passwords with customizable options.
+
+<div align="center">
+  <img src="screenshots/generator.png" alt="Password Generator" width="400">
+  <p><em>Password generator with 3 strength levels</em></p>
+</div>
+
 - **3 Strength Levels**: Easy, Medium, Hard
 - **Customizable Length**: 8-32 characters
 - **One-Click Copy**: Copy to clipboard instantly
 - **Real-Time Strength Indicator**: Visual feedback on password strength
 - **Secure Generation**: Uses cryptographic random number generation
 
+---
+
 ### 💾 Password Manager
+
+Manage all your passwords in one secure place.
+
+<div align="center">
+  <img src="screenshots/manager.png" alt="Password Manager" width="800">
+  <p><em>Full-page password manager interface</em></p>
+</div>
+
 - **Save Credentials**: Store username and password for any website
 - **Full-Page Interface**: Dedicated password management page
 - **Search & Filter**: Quickly find saved passwords
@@ -47,12 +65,38 @@ Passify is a modern password manager that prioritizes your privacy by keeping al
 - **Show/Hide Passwords**: Toggle password visibility
 - **Auto-Popup**: Automatically suggests saved credentials on matching sites
 
+---
+
 ### ⚡ Autofill
+
+Automatically fill in your credentials with one click.
+
+<div align="center">
+  <img src="screenshots/autofill.png" alt="Autofill Feature" width="600">
+  <p><em>One-click autofill on any website</em></p>
+</div>
+
 - **Smart Detection**: Automatically detects password fields
 - **One-Click Fill**: Autofill with a single click
 - **Secure Injection**: Safe credential insertion
 - **Universal Support**: Works on all websites
 - **Domain Matching**: Intelligent matching by website domain
+
+---
+
+### 💾 Save Passwords
+
+Save your credentials securely when logging into websites.
+
+<div align="center">
+  <img src="screenshots/save-dialog.png" alt="Save Password Dialog" width="400">
+  <p><em>Save password dialog</em></p>
+</div>
+
+- **Automatic Detection**: Detects when you enter credentials
+- **One-Click Save**: Save with a single click
+- **Website Association**: Automatically links to current website
+- **Secure Storage**: Encrypted local storage
 
 ### 🎨 Design
 - **Modern Dark Theme**: Professional slate and blue color palette
