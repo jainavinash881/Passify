@@ -313,7 +313,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/jainavinash881/passify/issues)
 - **Email**: jainavinash881@gmail.com
-- **Discussions**: [GitHub Discussions](https://github.com/jainavinash881/passify/discussions)
 
 ---
 
