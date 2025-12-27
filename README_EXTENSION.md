@@ -140,18 +140,6 @@ passify/
 - **Chrome Extension APIs** - Browser integration
 - **CSS3** - Glassmorphism effects
 
-## 🎯 Roadmap
-
-- [ ] Password encryption
-- [ ] Master password protection
-- [ ] Password import/export
-- [ ] Password history
-- [ ] Breach detection
-- [ ] Multi-device sync
-- [ ] Custom password rules
-- [ ] Password categories/folders
-- [ ] Search functionality
-- [ ] Dark/Light theme toggle
 
 ## 📝 Notes
 

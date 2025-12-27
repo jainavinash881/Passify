@@ -317,31 +317,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🗺️ Roadmap
-
-### Version 1.1 (Coming Soon)
-- [ ] Password strength analyzer
-- [ ] Password history
-- [ ] Duplicate password detection
-- [ ] Keyboard shortcuts
-- [ ] Dark/Light theme toggle
-
-### Version 1.2
-- [ ] Import/Export functionality
-- [ ] Password categories/folders
-- [ ] Secure notes
-- [ ] Password sharing (local only)
-- [ ] Browser sync (optional, encrypted)
-
-### Version 2.0
-- [ ] Multi-language support
-- [ ] Advanced search filters
-- [ ] Password audit
-- [ ] Breach detection (local check)
-- [ ] Custom password templates
-
----
-
 ## 📊 Stats
 
 ![GitHub stars](https://img.shields.io/github/stars/jainavinash881/passify?style=social)
