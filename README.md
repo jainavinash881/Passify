@@ -112,7 +112,7 @@ Save your credentials securely when logging into websites.
 ### From Browser Stores
 
 #### Firefox
-1. Visit [Firefox Add-ons](https://addons.mozilla.org/firefox/) (link coming soon)
+1. Visit [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/passify-password-manager/)
 2. Click "Add to Firefox"
 3. Confirm installation
 
